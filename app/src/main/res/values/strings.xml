@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Password Checker</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password_status">Password Status</string>
+    <string name="haslowercase">Has lowercase</string>
+    <string name="hasuppercase">Has uppercase</string>
+    <string name="hassymbol">Has symbol</string>
+    <string name="_00">00</string>
+    <string name="length">Length</string>
+    <string name="save_password">Save Password</string>
+    <string name="view_history">View History</string>
+    <string name="toggle_language">EN/TH</string>
+    <string name="password_history">Password History</string>
+    <string name="back">Back</string>
+    <string name="no_saved_passwords">No saved passwords</string>
+    <string name="delete">Delete</string>
+    <string name="password">Password:</string>
+    <string name="strength">Strength:</string>
+    <string name="date">Date:</string>
+    <string name="password_saved">Password saved successfully</string>
+    <string name="password_empty">Password cannot be empty</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this password?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit">Exit</string>
+    <string name="confirm_exit">Are you want to exit?</string>
+    <string name="weak">Weak</string>
+    <string name="moderate">Moderate</string>
+    <string name="strong">Strong</string>
+</resources>

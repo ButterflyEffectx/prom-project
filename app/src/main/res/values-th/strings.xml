@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ตรวจสอบรหัสผ่าน</string>
+    <string name="enter_your_password">ใส่รหัสผ่านของคุณ</string>
+    <string name="password_status">สถานะรหัสผ่าน</string>
+    <string name="haslowercase">มีตัวพิมพ์เล็ก</string>
+    <string name="hasuppercase">มีตัวพิมพ์ใหญ่</string>
+    <string name="hassymbol">มีสัญลักษณ์</string>
+    <string name="_00">00</string>
+    <string name="length">ความยาว</string>
+    <string name="save_password">บันทึกรหัสผ่าน</string>
+    <string name="view_history">ดูประวัติ</string>
+    <string name="toggle_language">อัง/ไทย</string>
+    <string name="password_history">ประวัติรหัสผ่าน</string>
+    <string name="back">กลับ</string>
+    <string name="no_saved_passwords">ไม่มีรหัสผ่านที่บันทึกไว้</string>
+    <string name="delete">ลบ</string>
+    <string name="password">รหัสผ่าน:</string>
+    <string name="strength">ความแข็งแรง:</string>
+    <string name="date">วันที่:</string>
+    <string name="password_saved">บันทึกรหัสผ่านสำเร็จ</string>
+    <string name="password_empty">รหัสผ่านไม่สามารถเว้นว่างได้</string>
+    <string name="confirm_delete">ยืนยันการลบ</string>
+    <string name="confirm_delete_message">คุณแน่ใจหรือไม่ว่าต้องการลบรหัสผ่านนี้?</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="exit">ออก</string>
+    <string name="confirm_exit">คุณต้องการออกจากแอพใช่หรือไม่?</string>
+    <string name="weak">อ่อน</string>
+    <string name="moderate">ปานกลาง</string>
+    <string name="strong">แข็งแรง</string>
+</resources>
