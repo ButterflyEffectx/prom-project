@@ -3,7 +3,7 @@
     <style name="Base.Theme.PasswordChecker" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="android:statusBarColor">#BFCBFB</item>
+        <item name="android:statusBarColor">#f0b27a</item>
         <item name="android:windowLightStatusBar">true</item>
     </style>
 

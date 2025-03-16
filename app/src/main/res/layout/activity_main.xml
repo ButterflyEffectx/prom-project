@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#BFCBFB"
+    android:background="#f0b27a"
     android:padding="16dp"
     tools:context=".MainActivity">
 
@@ -61,7 +61,8 @@
         android:layout_height="0dp"
         android:layout_marginTop="15dp"
         android:background="@drawable/dark_background"
-        app:layout_constraintTop_toBottomOf="@id/etPassword">
+        app:layout_constraintTop_toBottomOf="@id/etPassword"
+        tools:layout_editor_absoluteX="16dp">
 
         <TextView
             android:id="@+id/tvStatus"
@@ -83,13 +84,11 @@
             android:layout_marginTop="15dp"
             android:fontFamily="@font/montserrat_bold"
             android:textColor="@color/white"
-            android:gravity="center"
-            android:text="ธนวัฒน์ ศรีลาคำ 6604101332"
             android:textSize="14sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tvStatus"
-            tools:text="ธนวัฒน์ ศรีลาคำ 6604101332" />
+            tools:text="just for test" />
 
 
         <FrameLayout
@@ -181,6 +180,17 @@
             app:layout_constraintBottom_toBottomOf="@id/tvLength"
             app:layout_constraintStart_toEndOf="@id/tvLength"
             app:layout_constraintTop_toBottomOf="@id/hasSymbol" />
+
+        <TextView
+            android:id="@+id/nameDev"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
+            android:gravity="center"
+            android:text="ธนวัฒน์ ศรีลาคำ 6604101332"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
